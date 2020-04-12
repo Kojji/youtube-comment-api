@@ -7,8 +7,7 @@
     "private": false,
     "engines": {
         "node": ">=10.15.0",
-        "npm": ">=6.4.1",
-        "npm": ">=1.17.3"
+        "npm": ">=6.4.1"
     },
     "scripts": {
         "start": "gulp serve",
